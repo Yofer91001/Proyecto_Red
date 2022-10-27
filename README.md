@@ -23,9 +23,10 @@ Se implementa el
 Los protocolo que se van a utilizar son eBGP e iBGP, estos protocolos nos permiten la conexión entre subredes, iBGP, o estrablecer conecxiones entre dispositivos de la misma subred.
 
 ### eBGP
+Texto aqui
 
 ### iBGP
-
+Texto aqui
 
 
 ## Diagrama del proyecto

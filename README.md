@@ -15,7 +15,7 @@ Se implementa el
   <li>Libro: Douglas B. West, introduction to graph theory, 2nd edition. Pearson, 2000.</li>
 </ol>
 
-## Explicación Dijstra
+## Explicación Dijkstra
 
 
 ## Explicación Protocolos

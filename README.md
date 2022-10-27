@@ -29,6 +29,6 @@ Los protocolo que se van a utilizar son eBGP e iBGP, estos protocolos nos permit
 
 
 ## Diagrama del proyecto
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fplaceholder.com%2F&psig=AOvVaw0i-R5zyxJ1Nx9Yu5UjLToT&ust=1666994451110000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPjZ67S0gfsCFQAAAAAdAAAAABAI" >
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fplaceholder.com%2F&psig=AOvVaw0i-R5zyxJ1Nx9Yu5UjLToT&ust=1666994451110000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPjZ67S0gfsCFQAAAAAdAAAAABAI](https://via.placeholder.com/200x100)" >
 
 

@@ -29,6 +29,6 @@ Los protocolo que se van a utilizar son eBGP e iBGP, estos protocolos nos permit
 
 
 ## Diagrama del proyecto
-<img src = 'https://via.placeholder.com/200x100'>
+<img src = 'https://via.placeholder.com/200x100' alt="Diagrama de grafos interconectador e intraconectados">
 
 

@@ -1,20 +1,15 @@
-class Switch:
-  __init__(self):
-    self.hijos = list()
 
-class terminal:
-  __init__():
-    pass
-    
- 
  class Router:
-  __init__():
-    pass
+  __init__(self):
+    self.ip = ip
+    self.ip_table = list()
+   
   
   class Paquete:
-    def __init__():
-      pass
-      
-   class Protocolo:
-    __init__():
-      pass
+    def __init__(self, load):
+      self.load = load
+      self.size = 0
+      for _ in range(len(load)):
+        self.size += 1
+        
+ 
